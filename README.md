@@ -1,7 +1,7 @@
 # Pizza-with-Django
 
 ## Output
-https://github.com/user-attachments/assets/82602dcf-5657-4334-b7a9-6d4a4f585210
+https://github.com/user-attachments/assets/062d90aa-b75b-44c2-8c58-93c9861e61b4
 
 ---
 
